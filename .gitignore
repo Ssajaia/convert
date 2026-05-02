@@ -1,0 +1,10 @@
+# binaries
+convert
+convert-linux-amd64
+convert-darwin-amd64
+convert-darwin-arm64
+convert-windows-amd64.exe
+convert.exe
+
+# go
+vendor/
